@@ -1,0 +1,16 @@
+boto3
+botocore
+click
+Flask
+Flask-SQLAlchemy
+itsdangerous
+Jinja2
+jmespath
+MarkupSafe
+Pillow
+python-dateutil
+s3transfer
+six
+SQLAlchemy
+urllib3
+Werkzeug
